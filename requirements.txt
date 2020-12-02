@@ -1,0 +1,8 @@
+fastapi
+gunicorn
+uvicorn
+uvloop
+django
+psycopg2-binary
+python-multipart
+httptools
